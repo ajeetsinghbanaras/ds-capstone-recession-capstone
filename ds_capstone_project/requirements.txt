@@ -1,0 +1,10 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+plotly
+dash
+folium
+sqlite3-binary; python_version<'3.12'
+nbformat
